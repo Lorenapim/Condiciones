@@ -1,0 +1,13 @@
+.pines {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.pin {
+    padding: 4px;
+}
+
+button {
+    margin-left: 30px;
+}
